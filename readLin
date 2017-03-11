@@ -1,0 +1,8 @@
+public void readString(){
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+         try{
+            solve(br.readLine());
+            
+        } catch (IOException e) {}
+    }
+    
