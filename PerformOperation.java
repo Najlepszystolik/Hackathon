@@ -45,10 +45,7 @@ public class PerformOperation {
 				
 			}
 		}
-		
-		System.out.println("Twoje dane uzywane w operacji to: ");
-		nowystos.display();
-		System.out.println("Rozmiar stosu to: " + nowystos.getSize());
+	
 		System.out.println("Wynik operacji to: ");
 		nowystos.display();
 			
